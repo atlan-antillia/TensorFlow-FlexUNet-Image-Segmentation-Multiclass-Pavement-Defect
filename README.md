@@ -15,9 +15,7 @@ Augmented-Pavement-ImageMask-Dataset
 <br><br>
 <b>Data Augmentation Strategy</b><br>
 To address the limited size of <b>img_previw</b> and <b>label_preview</b> of the <b>PaveSeg Dataset</b>,
-which contains 100 images and labels repectively,
-
-we used our offline augmentation tools <a href="https://github.com/sarah-antillia/Image-Distortion-Tool"> 
+which contains 100 images and labels repectively, we used our offline augmentation tools <a href="https://github.com/sarah-antillia/Image-Distortion-Tool"> 
 Image-Distortion-Tool</a> and
 <a href="https://github.com/sarah-antillia/Barrel-Image-Distortion-Tool">Barrel-Image-Distortion-Tool</a> 
  to augment the preview dataset.
