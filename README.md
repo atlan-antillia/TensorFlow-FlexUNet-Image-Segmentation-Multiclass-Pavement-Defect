@@ -21,8 +21,6 @@ we used our offline augmentation tools <a href="https://github.com/sarah-antilli
 Image-Distortion-Tool</a> and
 <a href="https://github.com/sarah-antillia/Barrel-Image-Distortion-Tool">Barrel-Image-Distortion-Tool</a> 
  to augment the preview dataset.
-
-<br>
 <br>
 <hr>
 <b>Actual Image Segmentation for Images of 512x512 pixels</b><br>
